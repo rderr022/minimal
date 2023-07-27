@@ -1,6 +1,19 @@
-title: Minimal theme
+title: <p align="center"> Rohit Pothuru </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="www.linkedin.com/in/rohit-pothuru-64684273">LinkedIn</a> |
+  <a href="https://github.com/rderr022">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Worked with IBM Watson at Big Data Analytics team.
+  Working in Automation for 3 years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
